@@ -8,7 +8,7 @@ This API provides endpoints for creating, retrieving, updating, and deleting tod
 - Redis installed and running
 
 # Installation:
-- git clone https://github.com/WangariNelly/todo_api.git
+- git clone https://github.com/WangariNelly/Task-Manager-API.git
 
 ## Features:
 
